@@ -1,0 +1,78 @@
+body{
+				font-family:Arial, sans-serif;
+				background-color: rgb(252,249,227);
+				color: rgb(69,46,3);
+				margin-left: 0px;
+				margin-right: 0px;
+				margin-top: 8px;
+				margin-bottom: 16px;
+}
+
+img{
+				width: 100%;
+				height: auto;
+				padding-top: 8px;
+				padding-bottom: 8px;
+}
+
+#logo{
+				font-size: 36px;
+				padding-top: 8px;
+				padding-bottom: 8px;
+				padding-right: 16px;
+				padding-left: 16px;
+				display: inline-block;
+				color: rgb(252,249,227);
+				background-color: rgb(186,166,11);
+				font-weight: 200;
+				border-radius: 0px 20px 0px 20px;
+}
+
+#logo-name{
+				padding: 8px;
+				font-size: 24px;
+				color: rgb(186,166,11);
+				font-weight: 200;
+				
+}
+
+#top{
+				text-align: center;
+				padding-top: 8px;
+}
+
+#footer{
+				font-size: 14px;
+				font-weight: 200;
+				text-align: center;
+				color: rgb(186,166,11);
+}
+
+p{
+				font-size: 16px;
+				font-weight: 300;
+}
+
+h2{
+				text-align: center;
+				font-size: 24px;
+				font-weight: 600;
+}
+
+h3{
+				font-size:18px;
+				font-weight: 500;
+}
+
+h4{
+				font-size:16px;
+				font-weight: 300;
+				text-decoration: underline;
+}
+
+#main{
+				max-width: 600px;
+				margin: auto;
+				padding-top:16px;
+				padding-bottom: 16px;
+}
