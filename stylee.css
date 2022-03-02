@@ -16,7 +16,7 @@ img{
 }
 
 #logo{
-				font-size: 36px;
+				font-size: 40px;
 				padding-top: 8px;
 				padding-bottom: 8px;
 				padding-right: 16px;
@@ -30,7 +30,7 @@ img{
 
 #logo-name{
 				padding: 8px;
-				font-size: 24px;
+				font-size: 30px;
 				color: rgb(186,166,11);
 				font-weight: 200;
 				
@@ -49,32 +49,30 @@ img{
 }
 
 p{
-				font-size: 16px;
+				font-size: 18px;
 				font-weight: 300;
 }
 
 h2{
 				text-align: center;
-				font-size: 24px;
+				font-size: 28px;
 				font-weight: 600;
-                                color: rgb(54,37,4);
 }
 
 h3{
-				font-size:18px;
-				font-weight: 500;
-                                color: rgb(54,37,4);
-                                text-decoration: underline;
+				font-size:24px;
+				font-weight: 600;
+				text-decoration: underline;
 }
 
 h4{
-				font-size:16px;
+				font-size:18px;
 				font-weight: 300;
 				text-decoration: underline;
 }
 
 #main{
-				max-width: 600px;
+				width: 75%;
 				margin: auto;
 				padding-top:16px;
 				padding-bottom: 16px;
