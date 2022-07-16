@@ -1,0 +1,57 @@
+b{
+    text-transform: uppercase;
+    color: blue;
+}
+.antwort{
+    font-weight: 600;
+    display: inline-block;
+    color: rgb(3, 173, 26);
+}
+.frage{
+    display: inline-block;
+    vertical-align: top;
+}
+.nummer{
+    display: inline-block;
+}
+.abc{
+    display: block;
+}
+.dingsda{
+    display: inline-block;
+    vertical-align: top;
+    width: calc(85vmin - 33px);
+}
+body{
+    font-family: "Comic Sans MS", Arial, sans-serif;
+    margin: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+#main{
+    text-align: left;
+    width: 85vmin;
+    min-width: 45%;
+    margin: auto;
+    padding-top:16px;
+    padding-bottom: 16px;
+    font-size: 17px;
+    font-weight: 300;
+}
+#ueberschrift{
+    text-align: center;
+}
+#warmup{
+    margin: auto;
+}
+.dings{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+p{
+    padding: 0;
+    margin: 0;
+    line-height: 34px;
+}
