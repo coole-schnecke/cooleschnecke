@@ -15,7 +15,8 @@ b{
     display: inline-block;
 }
 .abc{
-    display: block;
+    display: inline-block;
+    margin-left: 8px;
 }
 .dingsda{
     display: inline-block;
