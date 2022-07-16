@@ -1,11 +1,25 @@
 b{
     text-transform: uppercase;
-    color: blue;
+    color: rgb(253, 42, 207);
 }
 .antwort{
     font-weight: 600;
     display: inline-block;
     color: rgb(3, 173, 26);
+    vertical-align: top;
+}
+#anita{
+    font-size: 50px;
+    font-weight: 600;
+    display: inline-block;
+}
+h2{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 600;
+}
+h3{
+    font-size: 18;
 }
 .frage{
     display: inline-block;
@@ -24,7 +38,7 @@ b{
     width: calc(85vmin - 33px);
 }
 body{
-    font-family: "Comic Sans MS", Arial, sans-serif;
+    font-family: "Comic Sas MS", Arial, sans-serif;
     margin: auto;
     margin-left: 0px;
     margin-right: 0px;
@@ -43,6 +57,8 @@ body{
 }
 #ueberschrift{
     text-align: center;
+    width: 90vw;
+    margin: auto;
 }
 #warmup{
     margin: auto;
