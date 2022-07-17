@@ -13,6 +13,7 @@ b{
     height: auto;
     display: block;
     margin: auto;
+    padding: 15px;
 }
 #geburtstag{
     font-size: 20px;
@@ -72,6 +73,7 @@ h3{
     height: auto;
     display: block;
     margin: auto;
+    padding: 15px;
 }
 body{
     font-family: "Comic Sas MS", Arial, sans-serif;
