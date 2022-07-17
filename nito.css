@@ -94,3 +94,8 @@ p{
     margin: 0;
     line-height: 34px;
 }
+#ballons{
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
