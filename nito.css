@@ -43,6 +43,22 @@ h3{
     display: inline-block;
     vertical-align: top;
     width: calc(85vmin - 33px);
+    margin:0;
+}
+.dingsdaa{
+    display: inline-block;
+    vertical-align: top;
+    width: calc(55vmin - 33px);
+    margin:0;
+}
+.klein{
+    width: 30%;
+    height: auto;
+    vertical-align: top;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    text-align: right;
 }
 body{
     font-family: "Comic Sas MS", Arial, sans-serif;
