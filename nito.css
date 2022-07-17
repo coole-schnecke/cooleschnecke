@@ -60,6 +60,11 @@ h3{
     display: inline-block;
     text-align: right;
 }
+.groß{
+    width: 100%;
+    height: auto;
+    display: block;
+}
 body{
     font-family: "Comic Sas MS", Arial, sans-serif;
     margin: auto;
@@ -86,8 +91,8 @@ body{
     margin: auto;
 }
 .dings{
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 p{
     padding: 0;
