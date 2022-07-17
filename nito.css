@@ -61,9 +61,10 @@ h3{
     text-align: right;
 }
 .groß{
-    width: 100%;
+    width: 60%;
     height: auto;
     display: block;
+    margin: auto;
 }
 body{
     font-family: "Comic Sas MS", Arial, sans-serif;
@@ -81,6 +82,8 @@ body{
     margin: auto;
     font-size: 17px;
     font-weight: 300;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 #ueberschrift{
     text-align: center;
@@ -91,8 +94,8 @@ body{
     margin: auto;
 }
 .dings{
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 p{
     padding: 0;
