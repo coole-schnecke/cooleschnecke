@@ -8,9 +8,16 @@ b{
     color: rgb(46, 124, 62);
     vertical-align: top;
 }
+#anitaa{
+    width: 45%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
 #geburtstag{
     font-size: 20px;
     display: block;
+    padding-top: 10px;
 }
 #anita{
     font-size: 50px;
@@ -100,7 +107,7 @@ body{
 p{
     padding: 0;
     margin: 0;
-    line-height: 34px;
+    line-height: 25px;
 }
 #ballons{
     width: 50%;
