@@ -111,9 +111,10 @@ p{
     line-height: 25px;
 }
 #ballons{
-    width: 50%;
+    width: 50vmin;
     height: auto;
     margin: auto;
+    display: block;
 }
 div{
     margin: 0;
