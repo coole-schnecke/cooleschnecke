@@ -1,25 +1,32 @@
 b{
     text-transform: uppercase;
-    color: rgb(253, 42, 207);
+    color: rgb(255, 47, 191);
 }
 .antwort{
     font-weight: 600;
     display: inline-block;
-    color: rgb(3, 173, 26);
+    color: rgb(46, 124, 62);
     vertical-align: top;
+}
+#geburtstag{
+    font-size: 20px;
+    display: block;
 }
 #anita{
     font-size: 50px;
     font-weight: 600;
-    display: inline-block;
+    display: block;
+    text-align: left;
 }
 h2{
     display: inline-block;
-    font-size: 20px;
+    font-size: 35px;
     font-weight: 600;
+    margin: 20px;
 }
 h3{
-    font-size: 18;
+    font-size: 18px;
+    margin-top: 40px;
 }
 .frage{
     display: inline-block;
@@ -44,14 +51,13 @@ body{
     margin-right: 0px;
     margin-top: 8px;
     margin-bottom: 8px;
+    background-color: white;
 }
 #main{
     text-align: left;
     width: 85vmin;
     min-width: 45%;
     margin: auto;
-    padding-top:16px;
-    padding-bottom: 16px;
     font-size: 17px;
     font-weight: 300;
 }
@@ -64,8 +70,8 @@ body{
     margin: auto;
 }
 .dings{
-    margin-top: 16px;
-    margin-bottom: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 p{
     padding: 0;
