@@ -30,7 +30,8 @@ h2{
     display: inline-block;
     font-size: 35px;
     font-weight: 600;
-    margin: 20px;
+    margin: 0;
+    margin-top: 10px;
 }
 h3{
     font-size: 18px;
@@ -91,8 +92,6 @@ body{
     margin: auto;
     font-size: 17px;
     font-weight: 300;
-    padding-top: 15px;
-    padding-bottom: 15px;
 }
 #ueberschrift{
     text-align: center;
@@ -115,4 +114,7 @@ p{
     width: 50%;
     height: auto;
     margin: auto;
+}
+div{
+    margin: 0;
 }
