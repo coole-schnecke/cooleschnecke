@@ -1,0 +1,92 @@
+body{
+    font-family:Arial, sans-serif;
+    background-color: rgb(252,249,227);
+    color: rgb(69,46,3);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#schneckenfoto{
+    width: 100%;
+    height: auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+#logo{
+    font-size: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
+    display: inline-block;
+    color: rgb(252,249,227);
+    background-color: rgb(186,166,11);
+    border-radius: 0px 20px 0px 20px;
+    margin: 0px;
+    border-color: rgb(69,46,3);
+    border-width: 2px;
+}
+
+#logoname{
+    padding: 8px;
+    font-size: 30px;
+    color: rgb(186,166,11);
+    font-weight: 150;
+    margin: 8px;
+}
+
+#top{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#footer{
+    font-size: 14px;
+    font-weight: 200;
+    text-align: center;
+    color: rgb(186,166,11);
+}
+
+ul{
+    font-size: 17px;
+    font-weight: 300;
+}
+
+p{
+    font-size: 17px;
+    font-weight: 300;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+h3{
+    font-size:20px;
+    font-weight: 350;
+    text-decoration: underline;
+}
+
+h4{
+    font-size:17px;
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+:root{
+    --x: 80vmin;
+}
+
+#main{
+    text-align: left;
+    width: var(--x );
+    min-width: 45%;
+    margin: auto;
+    padding-top:16px;
+    padding-bottom: 16px;
+}
